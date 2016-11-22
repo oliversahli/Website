@@ -115,6 +115,7 @@
 		{ src: "images/slides/10.jpg" },
 		{ src: "images/slides/11.jpg" },
 		{ src: "images/slides/12.jpg" },
+		{ src: "images/slides/14.jpg" },
 		{ src: "images/slides/13.jpg" },
 
     	]

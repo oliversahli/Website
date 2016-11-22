@@ -112,6 +112,9 @@
         	{ src: "images/slides/7.jpg" },
         	{ src: "images/slides/8.jpg" },
         	{ src: "images/slides/9.jpg" },
+		{ src: "images/slides/10.jpg" },
+		{ src: "images/slides/11.jpg" },
+		{ src: "images/slides/12.jpg" },
 
     	]
 	});

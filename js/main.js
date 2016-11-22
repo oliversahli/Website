@@ -109,6 +109,7 @@
         	{ src: "images/slides/4.jpg" },
         	{ src: "images/slides/5.jpg" },
         	{ src: "images/slides/6.jpg" },
+		{ src: "images/slides/15.jpg" },
         	{ src: "images/slides/7.jpg" },
         	{ src: "images/slides/8.jpg" },
         	{ src: "images/slides/9.jpg" },
